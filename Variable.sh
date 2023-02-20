@@ -8,3 +8,6 @@ echo " Hello, today's date is ${DATE}"
 #Arthimetic substitution
 Add=$((34+89))
 echo "Addition of add = ${Add}"
+
+#Accessing variables from Shell
+echo x = "$x"
