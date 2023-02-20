@@ -5,4 +5,4 @@ echo "Hello, today's date is ${Date}"
 # Command substitution
 DATE=$(date)
 
-echo " Hello, today's date is ${DATE)}"
+echo " Hello, today's date is ${DATE}"
