@@ -14,5 +14,7 @@ echo Hello World
 
 # \e[0m  -> Zero code is going to RESET the color, if we enable to color for sure we need to disable it,otherwise color will continue on screen.
 
+#We can usr double or single quotes, However double quotes are preferred.
+
 echo -e "\e[31mHello in red color \e[0m"
 echo Color is in white
