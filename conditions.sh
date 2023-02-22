@@ -6,7 +6,7 @@ then
   echo number is 5
 fi
 
-if [ "${string}" -eq hari ];
+if [ "${string}" == hari ];
 then
   echo string is hari
 fi
