@@ -9,4 +9,6 @@ fi
 if [ "${string}" == hari ];
 then
   echo string is hari
+else
+  echo string is not hari
 fi
